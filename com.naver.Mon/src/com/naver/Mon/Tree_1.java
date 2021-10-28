@@ -16,7 +16,7 @@ public class Tree_1 {
 				}
 			}
 		}
-		
+		System.out.println();
 		/*
 		if() {
 			//트리만들기
